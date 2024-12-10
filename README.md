@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Muhammed Emin</h1>
-<h3 align="left">A Junior IOS Developer</h3>
+<h3 align="left">Software Developer</h3>
 
-- 🌱 I’m currently learning **Swift and Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
